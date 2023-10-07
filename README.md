@@ -1,3 +1,3 @@
 #Project
 
-Sana matuto ng ako ng GIT!!!
+Sana matuto ng ako ng GIT!
